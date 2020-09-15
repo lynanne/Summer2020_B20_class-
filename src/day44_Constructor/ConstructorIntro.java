@@ -5,7 +5,7 @@ declare:
 			 		statements;
 			 }
  */
-public class ConstructorIntro {
+public class  ConstructorIntro {
 
     public ConstructorIntro(String arr){
         System.out.println("Hello "+arr);
